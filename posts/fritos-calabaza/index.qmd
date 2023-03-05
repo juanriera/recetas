@@ -1,15 +1,17 @@
 ---
-title: "Fritos de calabaza"
-subtitle: "(también *buñuelos*)"
+title: "Fritos (o buñuelos) de calabaza"
 author: "Merced"
 date: "2023-03-02"
 categories: [news]
+execute: 
+  freeze: false
 ---
 
 ## Ingredientes:
 
 -   575 g de calabaza (525 después de pelar, 500 después de cocer)
--   90 g harina -30 g azúcar
+-   90 g harina 
+-   30 g azúcar
 -   1 huevo
 -   1 cucharilla de postre colmada de levadura Royal
 -   ralladura de naranja
