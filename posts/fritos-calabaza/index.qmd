@@ -24,9 +24,9 @@ execute:
 Pelar la calabaza y cortar en trozos grandes.
 
 ::: {#fig-1 layout-ncol="2" layout-valign="bottom"}
-![](fritos-1.jpg)
+![](fritos-1.png)
 
-![](fritos-2.jpg)
+![](fritos-2.png)
 
 Preparación
 :::
@@ -37,9 +37,9 @@ Preparación
 Cocer en agua con una pizca de sal y la canela en rama hasta que esté blanda y se pueda machacar bien. En olla a presión, 15 minutos.
 
 ::: {#fig-2 layout-ncol="2" layout-valign="bottom"}
-![](fritos-3.jpg)
+![](fritos-3.png)
 
-![](fritos-4.jpg)
+![](fritos-4.png)
 
 Preparación 2
 :::
@@ -49,10 +49,10 @@ Escurrir la calabaza y dejar enfriar
 
 Machacar la calabaza hasta que haga una pasta uniforme
 
-::: {#fig-1 layout-ncol="2" layout-valign="bottom"}
-![](fritos-5.jpg)
+::: {#fig-3 layout-ncol="2" layout-valign="bottom"}
+![](fritos-5.png)
 
-![](fritos-6.jpg)
+![](fritos-6.png)
 
 Preparación 3
 :::
