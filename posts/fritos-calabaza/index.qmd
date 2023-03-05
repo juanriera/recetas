@@ -21,26 +21,41 @@ categories: [news]
 
 Pelar la calabaza y cortar en trozos grandes.
 
+::: {#fig-1 layout-ncol="2" layout-valign="bottom"}
 ![](imagenes/fritos-1.jpg)
 
 ![](imagenes/fritos-2.jpg)
 
+Preparación
+:::
+
+
+
+
 Cocer en agua con una pizca de sal y la canela en rama hasta que esté blanda y se pueda machacar bien. En olla a presión, 15 minutos.
 
+::: {#fig-2 layout-ncol="2" layout-valign="bottom"}
 ![](imagenes/fritos-3.jpg)
 
 ![](imagenes/fritos-4.jpg)
 
-Escurrir la calabaza y dejar enfriar
+Preparación 2
+:::
 
-![](imagenes/fritos-5.jpg)
+
+Escurrir la calabaza y dejar enfriar
 
 Machacar la calabaza hasta que haga una pasta uniforme
 
+::: {#fig-1 layout-ncol="2" layout-valign="bottom"}
+![](imagenes/fritos-5.jpg)
+
 ![](imagenes/fritos-6.jpg)
 
-Añadir el huevo, el azúcar, la harina, el anís y la ralladura de naranja y mezclar bien. La consistencia debe ser como de puré gordo.
+Preparación 3
+:::
 
-{{< video imagenes/IMG_7518.MOV >}}
+
+Añadir el huevo, el azúcar, la harina, el anís y la ralladura de naranja y mezclar bien. La consistencia debe ser como de puré gordo.
 
 Dejar enfriar en la nevera antes de freir
