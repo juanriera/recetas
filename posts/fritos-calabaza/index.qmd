@@ -8,18 +8,17 @@ categories: [news]
 
 ## Ingredientes:
 
-- 575 g de calabaza (525 después de pelar, 500 después de cocer)
-- 90 g harina
--30 g azúcar
-- 1 huevo
-- 1 cucharilla de postre colmada de levadura Royal
-- ralladura de naranja
-- 1 rama de canela
-- 1 chorrín de anís (pequeñín)
-- sal
-
+-   575 g de calabaza (525 después de pelar, 500 después de cocer)
+-   90 g harina -30 g azúcar
+-   1 huevo
+-   1 cucharilla de postre colmada de levadura Royal
+-   ralladura de naranja
+-   1 rama de canela
+-   1 chorrín de anís (pequeñín)
+-   sal
 
 ## Proceso
+
 Pelar la calabaza y cortar en trozos grandes.
 
 ![](imagenes/fritos-1.jpg)
@@ -42,9 +41,6 @@ Machacar la calabaza hasta que haga una pasta uniforme
 
 Añadir el huevo, el azúcar, la harina, el anís y la ralladura de naranja y mezclar bien. La consistencia debe ser como de puré gordo.
 
-
 {{< video imagenes/IMG_7518.MOV >}}
 
-
 Dejar enfriar en la nevera antes de freir
-
