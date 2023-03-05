@@ -16,5 +16,10 @@ format:
     theme: cosmo
     css: styles.css
 
+author-title: AUTOR
+published-title: PUBLICADO
+
+lang: es  
+
 editor: visual
 
